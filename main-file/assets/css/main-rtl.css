@@ -8798,13 +8798,13 @@ software_web
   display: none;
 }
 .pricing_section .blocks_pricing div div:first-of-type .item__price {
-  background-color: #d0dfff;
+  background-color: #ecfff0;
 }
 .pricing_section .blocks_pricing div div:nth-of-type(2) .item__price {
-  background-color: #fff4d8;
+  background-color: #ecfff0;
 }
 .pricing_section .blocks_pricing div div:nth-of-type(3) .item__price {
-  background-color: #ffe4db;
+  background-color: #ecfff0;
 }
 .pricing_section .blocks_pricing .item__price {
   border-radius: 8px;
