@@ -103,7 +103,7 @@
             },
           },
           color: {
-            value: ["#39b54a", "#3AB14B", "#F28E1C", "#3AB14B"],
+            value: ["#39b54a", "#3AB14B", "#3AB14B", "#3AB14B"],
           },
           shape: {
             type: ["circle"],
