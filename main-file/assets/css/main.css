@@ -1553,7 +1553,7 @@ img {
 }
 
 .c-aquamarine {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 
 .c-orange {
@@ -1649,7 +1649,7 @@ img {
 }
 
 .bg-aquamarine {
-  background-color: #17e79b !important;
+  background-color: #39b54a !important;
 }
 
 .bg-orange {
@@ -2382,40 +2382,40 @@ img {
 }
 
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
-  background-color: #17e79b !important;
+  background-color: #39b54a !important;
   color: #ffffff !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item:hover {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item.active {
-  background-color: #17e79b !important;
+  background-color: #39b54a !important;
   color: #ffffff !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item:hover {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item.active {
-  background-color: #17e79b !important;
+  background-color: #39b54a !important;
   color: #ffffff !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link:hover {
-  color: #17e79b !important;
+  color: #39b54a !important;
 }
 
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
@@ -3566,7 +3566,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   color: #ffffff;
 }
 .header_software .btn_demo3 .btn {
-  background-color: rgba(49, 209, 171, 0.1);
+  background-color: rgba(58, 177, 75, 0.1);
   color: #39b54a;
   border: 0 !important;
 }
@@ -8775,8 +8775,8 @@ software_web
 }
 .toggle_switch .yearly .offer {
   position: absolute;
-  background-color: rgba(23, 231, 155, 0.1);
-  color: #17e79b;
+  background-color: rgba(58, 177, 75, 0.1);
+  color: #39b54a;
   padding: 0.35rem;
   width: 78px;
   top: -1rem;
@@ -8915,7 +8915,7 @@ software_web
 }
 .pricing_section .blocks_pricing .item__price .feature_price .list-group .list-group-item .tio {
   vertical-align: text-top;
-  color: #17e79b;
+  color: #39b54a;
   font-size: 18px;
   margin-right: 0.3rem;
 }
@@ -9137,13 +9137,13 @@ software_web
   width: 50px;
   height: 50px;
   border-radius: 20px;
-  background-color: rgba(23, 231, 155, 0.1);
+  background-color: rgba(58, 177, 75, 0.1);
   display: inline-flex;
   justify-content: center;
   align-items: center;
 }
 .options_pricing .table_pricing .table .check_ico .tio {
-  color: #17e79b;
+  color: #39b54a;
   font-size: 24px;
 }
 
@@ -12240,7 +12240,7 @@ software_web
   transition: 0.3s !important;
 }
 .section__showcase .block__tab .nav-pills .nav-item .nav-link.active .icon {
-  background-color: rgba(49, 209, 171, 0.1);
+  background-color: rgba(58, 177, 75, 0.1);
   border: 0;
   -webkit-animation: jello-horizontal 0.9s both !important;
   -moz-animation: jello-horizontal 0.9s both !important;
@@ -14070,7 +14070,7 @@ software_web
   width: 100%;
 }
 .content-Sblog .body_content mark {
-  background-color: #17e79b;
+  background-color: #39b54a;
   color: #ffffff;
 }
 .content-Sblog .body_content .img_md {
@@ -17901,7 +17901,7 @@ html:not(.no-js) [data-aos="fade-up"] {
   border-radius: 20px;
   width: 50px;
   height: 50px;
-  background-color: #17e79b;
+  background-color: #39b54a;
   padding: 0.75rem;
   margin-right: 0.75rem;
 }
