@@ -1549,7 +1549,7 @@ img {
 }
 
 .c-green {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 
 .c-aquamarine {
@@ -1645,7 +1645,7 @@ img {
 }
 
 .bg-green {
-  background-color: #3AB14B30 !important;
+  background-color: #3AB14B !important;
 }
 
 .bg-aquamarine {
@@ -2345,40 +2345,40 @@ img {
 }
 
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
-  background-color: #3AB14B30 !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item:hover {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item.active {
-  background-color: #3AB14B30 !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item:hover {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item.active {
-  background-color: #3AB14B30 !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link:hover {
-  color: #3AB14B30 !important;
+  color: #3AB14B !important;
 }
 
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
@@ -6443,7 +6443,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 }
 .serv_soft .item__nature .icon--top {
   background-color: transparent !important;
-  background: linear-gradient(#3AB14B30, #f4fdfb);
+  background: linear-gradient(#3AB14B5E, #f4fdfb);
 }
 .serv_soft .item__nature .icon--top::before {
   background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='12' ry='12' stroke='%23E5E6E8FF' stroke-width='2' stroke-dasharray='5' stroke-dashoffset='5' stroke-linecap='butt'/%3e%3c/svg%3e") !important;
@@ -12302,7 +12302,7 @@ software_web
 }
 .crypto_section .item-coin .icon.bch {
   background-color: rgba(25, 163, 137, 0.1);
-  color: #3AB14B30;
+  color: #3AB14B;
 }
 .crypto_section .item-coin .icon.bch .tio {
   transform: rotate(-30deg);
