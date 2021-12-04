@@ -69,7 +69,7 @@ body {
   padding-top: 3rem;
   font-family: "CircularStd", sans-serif;
   font-size: 16px;
-  font-color: #0B2238;
+  font-color: #081A0B;
 }
 @media (max-width: 767px) {
   body {
@@ -140,7 +140,7 @@ body {
   font-weight: 500;
   border-radius: 12px;
   padding: .95rem 1.2rem;
-  color: #0B2238;
+  color: #081A0B;
   margin-bottom: .2rem;
 }
 .contet_doc .item_nav_side .nav-pills .nav-link.active {
@@ -177,7 +177,7 @@ body {
   align-items: center;
 }
 .brand_top a {
-  color: #0B2238;
+  color: #081A0B;
   font-size: 20px;
   font-weight: 500;
 }

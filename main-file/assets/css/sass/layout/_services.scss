@@ -807,7 +807,7 @@
     padding: 0 15px 0 15px !important;
     .icon--top {
       background-color: transparent !important;
-      background: linear-gradient(#c6f2e8, #f4fdfb);
+      background: linear-gradient(#3AB14B30, #f4fdfb);
       &::before {
         background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='12' ry='12' stroke='%23E5E6E8FF' stroke-width='2' stroke-dasharray='5' stroke-dashoffset='5' stroke-linecap='butt'/%3e%3c/svg%3e") !important;
         z-index: -1;
@@ -835,7 +835,7 @@
     }
     &:nth-of-type(2) {
       .icon--top {
-        background-color: #f93542 !important;
+        background-color: #3AB14B !important;
       }
     }
     &:nth-of-type(3) {
@@ -987,11 +987,11 @@
       align-items: center;
     }
     .gradient_red {
-      background: radial-gradient(rgba(#f93542, 0), rgba(#f93542, 0.16));
+      background: radial-gradient(rgba(#3AB14B, 0), rgba(#3AB14B, 0.16));
       svg {
         width: 24px;
         path {
-          fill: #f93542;
+          fill: #3AB14B;
         }
       }
     }
