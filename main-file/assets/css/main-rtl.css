@@ -1549,7 +1549,7 @@ img {
 }
 
 .c-green {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 
 .c-aquamarine {
@@ -1645,7 +1645,7 @@ img {
 }
 
 .bg-green {
-  background-color: #19a389 !important;
+  background-color: #3AB14B !important;
 }
 
 .bg-aquamarine {
@@ -2345,40 +2345,40 @@ img {
 }
 
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
-  background-color: #19a389 !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item:hover {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item.active {
-  background-color: #19a389 !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item:hover {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item.active {
-  background-color: #19a389 !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 .active-green .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link:hover {
-  color: #19a389 !important;
+  color: #3AB14B !important;
 }
 
 .active-aquamarine .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
@@ -12302,7 +12302,7 @@ software_web
 }
 .crypto_section .item-coin .icon.bch {
   background-color: rgba(25, 163, 137, 0.1);
-  color: #19a389;
+  color: #3AB14B;
 }
 .crypto_section .item-coin .icon.bch .tio {
   transform: rotate(-30deg);
