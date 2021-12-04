@@ -1557,7 +1557,7 @@ img {
 }
 
 .c-orange {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 
 .c-orange-red {
@@ -1653,7 +1653,7 @@ img {
 }
 
 .bg-orange {
-  background-color: #f28e1c !important;
+  background-color: #3AB14B !important;
 }
 
 .bg-red {
@@ -2419,40 +2419,40 @@ img {
 }
 
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
-  background-color: #f28e1c !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item:hover {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item.active {
-  background-color: #f28e1c !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item:hover {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item.active {
-  background-color: #f28e1c !important;
+  background-color: #3AB14B !important;
   color: #ffffff !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 .active-orange .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link:hover {
-  color: #f28e1c !important;
+  color: #3AB14B !important;
 }
 
 .active-orange-red .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
@@ -7148,7 +7148,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   align-items: center;
   border-radius: 50%;
   margin-right: 1.875rem;
-  background-color: #f28e1c;
+  background-color: #3AB14B;
 }
 .feature_dem3 .item_feth .icon_fr img {
   width: 24px;
@@ -7910,7 +7910,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   Sass Product
 -----------------------------*/
 .products_section {
-  background-color: #05173f;
+  background-color: #002905;
 }
 .products_section .title_sections h2 {
   color: #ffffff;
@@ -10713,7 +10713,7 @@ software_web
 }
 .block_testimonial .swiper-container.gallery-thumbs .swiper-wrapper .swiper-slide.swiper-slide-thumb-active .pagination {
   opacity: 1;
-  border: 1px solid #f28e1c;
+  border: 1px solid #3AB14B;
   transform: scale(1);
 }
 
@@ -11041,7 +11041,7 @@ software_web
   position: absolute;
   right: 23%;
   top: 10%;
-  background-color: #f28e1c;
+  background-color: #3AB14B;
 }
 .test_monials__workspace .people__say .simple__particles div:nth-of-type(3) {
   position: absolute;
@@ -19527,7 +19527,7 @@ html:not(.no-js) [data-aos="fade-up"] {
 }
 .default_footer.dark {
   position: relative;
-  background-color: #05173f;
+  background-color: #002905;
   overflow: hidden;
 }
 .default_footer.dark:before {
@@ -19758,7 +19758,6 @@ html:not(.no-js) [data-aos="fade-up"] {
 .defalut-footer::before {
   position: absolute;
   content: "";
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='575' height='495' viewBox='0 0 575 495'%3E%3Cpath id='Polygon_69' data-name='Polygon 69' d='M408.225,0a40,40,0,0,1,34.589,19.91l120.518,207.5a40,40,0,0,1,0,40.179L442.814,475.09A40,40,0,0,1,408.225,495H166.775a40,40,0,0,1-34.589-19.91L11.668,267.59a40,40,0,0,1,0-40.179L132.186,19.91A40,40,0,0,1,166.775,0Z' fill='%23165df5'/%3E%3C/svg%3E%0A");
   background-repeat: no-repeat;
   background-size: 450px;
   width: 575px;
