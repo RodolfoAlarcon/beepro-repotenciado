@@ -38,10 +38,10 @@
         <circle id="Ellipse_196" data-name="Ellipse 196" cx="13.5" cy="13.5" r="13.5" transform="translate(1198.4 1631.6)" fill="none" stroke="#000" stroke-width="19.612"/>
       </g>
       <g id="Color_Elipses">
-        <circle id="Ellipse_197" data-name="Ellipse 197" cx="153.2" cy="153.2" r="153.2" transform="translate(388.4 1516.9)" fill="none" stroke="#165df5" stroke-width="29.539"/>
+        <circle id="Ellipse_197" data-name="Ellipse 197" cx="153.2" cy="153.2" r="153.2" transform="translate(388.4 1516.9)" fill="none" stroke="#39b54a" stroke-width="29.539"/>
         <circle id="Ellipse_198" data-name="Ellipse 198" cx="209.3" cy="209.3" r="209.3" transform="translate(1735.5 814.6)" fill="none" stroke="#ff7a00" stroke-width="15"/>
-        <circle id="Ellipse_199" data-name="Ellipse 199" cx="180.6" cy="180.6" r="180.6" transform="translate(2584.7 1056.7)" fill="none" stroke="#165df5" stroke-width="8"/>
-        <circle id="Ellipse_200" data-name="Ellipse 200" cx="38.4" cy="38.4" r="38.4" transform="translate(1248.7 2205.7)" fill="none" stroke="#165df5" stroke-width="35"/>
+        <circle id="Ellipse_199" data-name="Ellipse 199" cx="180.6" cy="180.6" r="180.6" transform="translate(2584.7 1056.7)" fill="none" stroke="#39b54a" stroke-width="8"/>
+        <circle id="Ellipse_200" data-name="Ellipse 200" cx="38.4" cy="38.4" r="38.4" transform="translate(1248.7 2205.7)" fill="none" stroke="#39b54a" stroke-width="35"/>
       </g>
     </g>
     <g id="Girl-2" data-name="Girl" transform="translate(14883.6 8673.4)">
@@ -81,7 +81,7 @@
         <ellipse id="Ellipse_203" data-name="Ellipse 203" cx="6.6" cy="5.1" rx="6.6" ry="5.1" transform="translate(1822.847 984.896) rotate(-57.003)"/>
       </g>
       <g id="Hat">
-        <path id="Path_1140" data-name="Path 1140" d="M2207.1,676.2,1926.3,890.3c-2.2,4.7-.2,18.6,25.1,36.1s50.6,23.3,60.1,24Z" fill="#165df5"/>
+        <path id="Path_1140" data-name="Path 1140" d="M2207.1,676.2,1926.3,890.3c-2.2,4.7-.2,18.6,25.1,36.1s50.6,23.3,60.1,24Z" fill="#39b54a"/>
         <path id="Path_1141" data-name="Path 1141" d="M2061.8,847.9l7.8-17.7,7.4,17.7,11.4-4.9-23.1,32.4-3.5-8.3h-23.1l17.2-9.8-10.8-16.7Z" fill="#ffb905"/>
         <path id="Path_1142" data-name="Path 1142" d="M1969.8,877.1l5.4-12.2,5.1,12.2,11.2-5.1-7.4,11.5,4.1,10.1-10.5-3.4-4.7,11.5-3-11.5h-15.9l11.8-6.8-7.4-11.5Z" fill="#ffb905"/>
         <path id="Path_1143" data-name="Path 1143" d="M2130,744l-15.6,2.9,33.1-25.1-5,12.8,6,9.1-10.9-1.2-2.3,12.2Z" fill="#ffb905"/>
@@ -106,7 +106,7 @@
         <path id="Path_1160" data-name="Path 1160" d="M2513.6,1665.4l-10.2-5.8" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
       </g>
       <g id="Body">
-        <path id="Path_1161" data-name="Path 1161" d="M1889.1,1150.8l-45.1,31.4c-29,18.9-62.8,59.8-161.1,75.1s-189.3-64.6-222.5-106.5l-92.8,106.5c7.7,12.7,56.5,48.6,189.7,90.1s263-6.4,311.2-35.5c4.4,30.6,35.5,154.7,50.5,212.9-65.5-19.7-220.2-16.4-289.4-12.3l79.2,487.3c117.8-37.3,373.5-138.4,453.2-244.3s33.2-294.4,0-375.4c49.1,29.5,130,212.8,176,288.3l113.4-109.5c-36.4-50.5-135.7-179.9-241.6-293.5s-183.4-130.1-208.8-124.2C1953,1167.5,1906.4,1158.5,1889.1,1150.8Z" fill="#165df5"/>
+        <path id="Path_1161" data-name="Path 1161" d="M1889.1,1150.8l-45.1,31.4c-29,18.9-62.8,59.8-161.1,75.1s-189.3-64.6-222.5-106.5l-92.8,106.5c7.7,12.7,56.5,48.6,189.7,90.1s263-6.4,311.2-35.5c4.4,30.6,35.5,154.7,50.5,212.9-65.5-19.7-220.2-16.4-289.4-12.3l79.2,487.3c117.8-37.3,373.5-138.4,453.2-244.3s33.2-294.4,0-375.4c49.1,29.5,130,212.8,176,288.3l113.4-109.5c-36.4-50.5-135.7-179.9-241.6-293.5s-183.4-130.1-208.8-124.2C1953,1167.5,1906.4,1158.5,1889.1,1150.8Z" fill="#39b54a"/>
         <path id="Path_1162" data-name="Path 1162" d="M1623.6,1467.8l77.8,472.3" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
         <path id="Path_1163" data-name="Path 1163" d="M1664.8,1469.9l63.2,360.3" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
         <path id="Path_1164" data-name="Path 1164" d="M2138.1,1323.2a873.606,873.606,0,0,1,64.7,146.7" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>

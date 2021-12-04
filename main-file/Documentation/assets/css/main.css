@@ -106,7 +106,7 @@ body {
 .header_nav .navbar .btn_purchase {
   padding: .6rem 1.5rem;
   border-radius: 12px;
-  background-color: #165DF5;
+  background-color: #39b54a;
   color: #ffffff;
 }
 
@@ -144,7 +144,7 @@ body {
   margin-bottom: .2rem;
 }
 .contet_doc .item_nav_side .nav-pills .nav-link.active {
-  background-color: #165DF5;
+  background-color: #39b54a;
   color: #ffffff;
 }
 .contet_doc .item_nav_side .nav-pills .nav-link .tio {
@@ -206,7 +206,7 @@ xmp {
 }
 
 .c-blue {
-  color: #165DF5 !important;
+  color: #39b54a !important;
 }
 
 body, .header_nav .navbar .navbar-brand span, .header_nav .navbar .navbar-nav .nav-item .nav-link {
