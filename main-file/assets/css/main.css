@@ -17471,7 +17471,7 @@ software_web
   align-items: center;
 }
 .sweep_letter .inside_item span::after {
-  content: attr(data-hover);
+  content: 'Empezar';
   position: absolute;
   top: -30px;
   left: auto;
