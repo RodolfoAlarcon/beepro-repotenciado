@@ -20244,6 +20244,9 @@ html:not(.no-js) [data-aos="fade-up"] {
   }
 }
 @media(max-width:768px){
+  .d-n-movil{
+    display: none;
+  }
   .header__content{
     align-items: flex-start;
     justify-content: flex-start;
@@ -20256,10 +20259,7 @@ html:not(.no-js) [data-aos="fade-up"] {
   .demo__software .banner_title p{
     font-size: 1.5rem;
     padding-right: 15rem;
-  }
-  .app_smartphone{
-    display: none;
-  }
+  } 
   .demo_1 .container-fluid{
     height: 100vh;
   }
@@ -20270,8 +20270,35 @@ html:not(.no-js) [data-aos="fade-up"] {
     height: 560px;
   }
 }
+@media(max-width:540px){
+  .d-n-movil{
+    display: none;
+  }
+  .banner_title h1{
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+    padding-right: 5rem;
+  }
+  .demo__software .banner_title p{
+    font-size: 1rem;
+    padding-right: 12rem;
+  }
 
-@media(max-width:411px){
+  .demo_1 .container-fluid{
+    height: 100vh;
+  }
+  #telefono {
+    width: 100%;
+    position: absolute;
+    right: -235px;
+    height: 381px;
+  }
+}
+
+@media(max-width:414px){
+  .d-n-movil{
+    display: none;
+  }
   .banner_title h1{
     font-size: 3.2rem;
     margin-bottom: .5rem;
@@ -20281,8 +20308,29 @@ html:not(.no-js) [data-aos="fade-up"] {
     font-size: 1.1rem;
     padding-right: 4.5rem;
   }
-  .app_smartphone{
+  .demo_1 .container-fluid{
+    height: 100vh;
+  }
+  #telefono {
+    width: 100%;
+    position: absolute;
+    right: -140px;
+    height: 380px;
+  }
+}
+
+@media(max-width:411px){
+  .d-n-movil{
     display: none;
+  }
+  .banner_title h1{
+    font-size: 3.2rem;
+    margin-bottom: .5rem;
+    padding-right: 0;
+  }
+  .demo__software .banner_title p{
+    font-size: 1.1rem;
+    padding-right: 4.5rem;
   }
   .demo_1 .container-fluid{
     height: 100vh;
@@ -20295,6 +20343,9 @@ html:not(.no-js) [data-aos="fade-up"] {
   }
 }
 @media(max-width:375px){
+  .d-n-movil{
+    display: none;
+  }
   .banner_title h1{
     font-size: 2.8rem;
     margin-bottom: .5rem;
@@ -20303,9 +20354,6 @@ html:not(.no-js) [data-aos="fade-up"] {
   .demo__software .banner_title p{
     font-size: 1rem;
     padding-right: 4.5rem;
-  }
-  .app_smartphone{
-    display: none;
   }
   .demo_1 .container-fluid{
     height: 100vh;
@@ -20318,6 +20366,9 @@ html:not(.no-js) [data-aos="fade-up"] {
   }
 }
 @media(max-width:360px){
+  .d-n-movil{
+    display: none;
+  }
   .banner_title h1{
     font-size: 2.7rem;
     margin-bottom: .5rem;
@@ -20326,9 +20377,6 @@ html:not(.no-js) [data-aos="fade-up"] {
   .demo__software .banner_title p{
     font-size: .8rem;
     padding-right: 4.5rem;
-  }
-  .app_smartphone{
-    display: none;
   }
   .demo_1 .container-fluid{
     height: 100vh;
@@ -20341,6 +20389,9 @@ html:not(.no-js) [data-aos="fade-up"] {
   }
 }
 @media(max-width:320px){
+  .d-n-movil{
+    display: none;
+  }
   .banner_title h1{
     font-size: 2.3rem;
     margin-bottom: .5rem;
@@ -20350,9 +20401,7 @@ html:not(.no-js) [data-aos="fade-up"] {
     font-size: .8rem;
     padding-right: 4.5rem;
   }
-  .app_smartphone{
-    display: none;
-  }
+
   .demo_1 .container-fluid{
     height: 100vh;
   }

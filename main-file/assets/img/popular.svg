@@ -1,18 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173.196" height="37.61" viewBox="0 0 173.196 37.61">
-  <defs>
-    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#339F42"/>
-      <stop offset="1" stop-color="#3AB14B"/>
-    </linearGradient>
-  </defs>
-  <g id="Group_5484" data-name="Group 5484" transform="translate(-753 -4477.594)">
-    <g id="Group_5465" data-name="Group 5465" transform="translate(302.561 4300)">
-      <g id="Group_5464" data-name="Group 5464" transform="translate(450.439 177.594)">
-        <path id="Path_82" data-name="Path 82" d="M475.38,177.594H462.808a12.619,12.619,0,0,0-12.369,10.328H475.38V177.594Z" transform="translate(-450.439 -177.594)" fill="#1E8100" fill-rule="evenodd"/>
-        <path id="Path_83" data-name="Path 83" d="M660.058,177.594H672.63A12.62,12.62,0,0,1,685,187.922H660.058Z" transform="translate(-511.803 -177.594)" fill="#1E8100" fill-rule="evenodd"/>
-        <path id="Path_84" data-name="Path 84" d="M467.929,177.594c10.54,0,12.345,10.668,15.805,18.382,4.277,9.534,7.466,19.228,20.238,19.228h76.371c12.772,0,15.961-9.693,20.237-19.228,3.461-7.714,5.266-18.382,15.805-18.382Zm148.457,0Zm-148.458,0" transform="translate(-455.559 -177.594)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
-      </g>
-    </g>
-    <text id="Most_popular" data-name="Most popular" transform="translate(840 4501)" fill="#fff" font-size="14" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="-42.938" y="0">Most popular</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 173.2 37.6" style="enable-background:new 0 0 173.2 37.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#1E8100;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Path_84_00000013189133529848970820000007255374421496951227_);}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:14px;}
+</style>
+<g id="Group_5484" transform="translate(-753 -4477.594)">
+	<g id="Group_5465" transform="translate(302.561 4300)">
+		<g id="Group_5464" transform="translate(450.439 177.594)">
+			<path id="Path_82" class="st0" d="M24.9,0H12.4C6.3,0,1.1,4.4,0,10.3h24.9V0z"/>
+			<path id="Path_83" class="st0" d="M148.3,0h12.6c6.1,0,11.3,4.4,12.4,10.3h-24.9V0z"/>
+			
+				<linearGradient id="Path_84_00000074414647865491916310000008319223032427884205_" gradientUnits="userSpaceOnUse" x1="-865.6263" y1="546.1741" x2="-865.6263" y2="545.1741" gradientTransform="matrix(148.458 0 0 -37.61 128595.75 20541.6094)">
+				<stop  offset="0" style="stop-color:#339F42"/>
+				<stop  offset="1" style="stop-color:#3AB14B"/>
+			</linearGradient>
+			
+				<path id="Path_84" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Path_84_00000074414647865491916310000008319223032427884205_);" d="
+				M12.4,0c10.5,0,12.3,10.7,15.8,18.4c4.3,9.5,7.5,19.2,20.2,19.2h76.4c12.8,0,16-9.7,20.2-19.2c3.5-7.7,5.3-18.4,15.8-18.4H12.4z"
+				/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 797.062 4501)" class="st2 st3 st4">Más popular</text>
+</g>
 </svg>
