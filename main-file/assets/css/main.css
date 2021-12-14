@@ -19851,9 +19851,6 @@ html:not(.no-js) [data-aos="fade-up"] {
 /*-----------------------------
   footer_short
 -----------------------------*/
-.footer_short {
-  padding-bottom: 5rem;
-}
 .footer_short .social--media {
   margin-top: 3.75rem;
 }
